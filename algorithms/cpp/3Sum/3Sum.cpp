@@ -38,7 +38,7 @@ using namespace std;
  *
  *   Alternatively, the algorithm below first sorts the input array and then tests all 
  *   possible pairs in a careful order that avoids the need to binary search for the pairs 
- *   in the sorted list, achieving worst-case O(n^n)
+ *   in the sorted list, achieving worst-case O(n^2)
  *
  *   Solution:  Quadratic algorithm
  *   http://en.wikipedia.org/wiki/3SUM
